@@ -59,7 +59,7 @@ The students will run a molecular dynamics simulation of CaF<sub>2</sub> before 
 ### Week 3 - Defect Chemistry
 
 As with people, no material is without defects. There are two main types of defect that exist in materials,
-- Frenkel defects -- an atom is displaced in the lattice to an interstitial site; creaing a vacancy,
+- Frenkel defects -- an atom is displaced in the lattice to an interstitial site; creating a vacancy,
 - Schottky defects -- a formula unit is missing from the lattice, creating (usually) a pair of vacancies.
 
 Week 3 will see the students introducing Schottky defects to their CaF<sub>2</sub> configurations from the previous week. They will determine the effect that these defects have on the transport properties studied previously. In this week the students are expected to apply the skills that they have learned in weeks 1 and 2 to design their own simulations. Students will then introduce Frenkel defects to their CaF<sub>2</sub> configurations from the previous week They will determine the effect that these defects have on the transport properties studied previously. In this week the students are expected to apply the skills that they have learned in weeks 1 and 2 to design their own simulations.
