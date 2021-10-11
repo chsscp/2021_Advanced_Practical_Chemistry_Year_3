@@ -11,9 +11,9 @@ Welcome to the advanced chemistry practical - computational. In this eight week 
 
 All of the required materials are available on this webpage. You should then download the material on this webpage, using the green *Clone or download* button in the upper right and selecting *Download ZIP*. Both of these downloads will be ZIP files, you should extract them both and put the contents somewhere *sensible* in your H: drive. 
 
-The executable codes required to run the bigger simulations that you will carry out later today are not included in this repository and can be  can be downloaded from [here](https://people.bath.ac.uk/chsscp/teach/adv.bho/progs.zip). Please download, unzip and then copy these files to the Code/ folder in your downloaded version of this repository.
+The executable codes required to run the bigger simulations that you will carry out later today have to be put into the Codes/ folder.  Check the contents of Codes/ and ensure that it has the executables in your downloaded version of this repository.  They can also be downloaded for Windows from [here](https://people.bath.ac.uk/chsscp/teach/adv.bho/progs.zip). 
 
-Before going any further you should ensure that you have downloaded both this repository, the codes and crucially, ensure that the codes are stored in the Code folder in the repository.
+Before going any further you should ensure that you have downloaded both this repository, the codes and crucially, ensure that the codes are stored in the Codes folder in the repository.
 
 In this repository you will find four folders containing the material for each week of the course. There is a README file in each folder explaining what you need to do to get started on that week.
 
